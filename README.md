@@ -1,4 +1,7 @@
 <h1 align="center">Optimized Stable Diffusion</h1>
+<p><i><b> - Installation and setup explained for noobs like me.</p></i></b>
+<p><i><b> - Added a small launcher script to setup some basic parameters via terminal.</p></i></b>
+
 <p align="center">
     <img src="https://img.shields.io/github/last-commit/basujindal/stable-diffusion?logo=Python&logoColor=green&style=for-the-badge"/>
         <img src="https://img.shields.io/github/issues/basujindal/stable-diffusion?logo=GitHub&style=for-the-badge"/>
