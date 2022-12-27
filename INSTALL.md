@@ -25,4 +25,4 @@ python3 optimizedSD/optimized_txt2img.py --prompt "Underwater life" --H 256 --W 
 
  optimisedSD/txt2img_gradio.py "a modern view of christmas"
  
-1 image in 1 iteration takes 20 minutes
+7. Use launcher.sh to set up basic parameters and run txt2img
