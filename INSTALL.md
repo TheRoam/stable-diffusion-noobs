@@ -6,9 +6,6 @@ git clone https://github.com/basujindal/stable-diffusion
 
 https://docs.conda.io/projects/conda/en/stable/user-guide/install/linux.html
 
-for Raspberry Pi OS with armv7l search an adequate installer here
-https://repo.anaconda.com/miniconda/
-
 3. Create folder "models/ldm/stable-diffusion-v1"
 
 4. Place any model checkpoint in there, named "model.ckpt"
